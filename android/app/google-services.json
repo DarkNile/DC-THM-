@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570093595513",
+    "firebase_url": "https://dtc-temp-2020.firebaseio.com",
+    "project_id": "dtc-temp-2020",
+    "storage_bucket": "dtc-temp-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570093595513:android:2d2c651eda76cef9d71da8",
+        "android_client_info": {
+          "package_name": "com.example.dtc_temp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570093595513-g21m82b7647aeqr64opv3tbelte39dlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDsg_2_5c2nQNLTCJJSb7k7vA9W6KHOSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570093595513-g21m82b7647aeqr64opv3tbelte39dlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
